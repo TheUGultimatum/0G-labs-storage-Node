@@ -226,8 +226,8 @@ sudo systemctl restart zgs
 
 The service/node will be start after that:
 
-👉 Join TG for more Updates: https://telegram.me/cryptogg
+👉 Join TG for more Updates: https://telegram.me/theugultimatum
 
-If U have any issue then open a issue on this repo or Dm me on TG~
+If U have any issue then open a issue on this repo or Dm me on TG~ @Usmaangani255
 
 Thank You! Happy Coding!📈
